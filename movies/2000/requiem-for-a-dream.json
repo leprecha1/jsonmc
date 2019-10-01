@@ -1,0 +1,21 @@
+{
+  "name": "Requiem for a Dream",
+  "year": 2000,
+  "runtime": 101,
+  "categories": [
+    "drama"
+  ],
+  "release-date": "2000-10-06",
+  "director": "Darren Aronofsky",
+  "writer": [
+    "Darren Aronofsky",
+    "Hubert Selby Jr."
+  ],
+  "actors": [
+    "Ellen Burstyn",   
+    "Jared Leto",
+    "Jennifer Connelly",
+    "Marlon Wayans"
+  ],
+  "storyline": "Based on the novel by Hubert Selby Jr., this gritty drama concerns four people trapped by their addictions. "
+}
